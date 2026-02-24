@@ -78,16 +78,11 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## 🎒 Образование
 [<img src="/sertificate.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Nikita-Krylov17/Nikita-Krylov17/refs/heads/main/sertificate.png)
 
 <br>
 
-## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
-[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png)
-
-<br>
 <br>
 
 ## 🤝 Контакт

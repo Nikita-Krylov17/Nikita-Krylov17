@@ -65,6 +65,8 @@
 
 <br>
 
+## 💼 Портфолио
+
 ## 🎒 Образование
 [<img src="/sertificate.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Nikita-Krylov17/Nikita-Krylov17/refs/heads/main/sertificate.png)
 

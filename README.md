@@ -1,5 +1,6 @@
 ## Привет！👋
 Я QA Engineer, открытый к развитию во всех направлениях. Хочу стать крепким профессионалом и вносить вклад в качество продукта
+![Image alt](https://github.com/Nikita-Krylov17/Nikita-Krylov17/blob/main/iconfinder-icon-37-cover.png)
 
 ## 📊 Статистика
 
